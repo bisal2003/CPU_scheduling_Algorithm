@@ -187,9 +187,9 @@ This project is available for educational and non-commercial use.
 ## 👨‍💻 Author
 **Bisal**  
 🎓 **National Institute of Technology, Silchar**  
-📧 Contact: [Add your email]  
-💼 LinkedIn: [Add your LinkedIn]  
-🔗 GitHub: [Add your GitHub profile]
+📧 Contact: [bisalprasad2003@gmail.com]  
+💼 LinkedIn: [linkedin.com/bisal-prasad]  
+🔗 GitHub: [github.com/bisal2003]
 
 ---
 
