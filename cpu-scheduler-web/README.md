@@ -1,8 +1,19 @@
 # CPU Scheduling Simulator - Web Version
 
-🚀 **Interactive Terminal-Based CPU Scheduler**
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://cpu-scheduling-algorithm-ten.vercel.app/)
+[![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
-A professional web-based terminal interface for simulating various CPU scheduling algorithms. Built with Next.js, TypeScript, and Tailwind CSS.
+> 🚀 **[Try it Live!](https://cpu-scheduling-algorithm-ten.vercel.app/)** - Interactive terminal-based CPU scheduling simulator
+
+A professional web-based terminal interface for simulating various CPU scheduling algorithms. Experience the power of operating system scheduling algorithms right in your browser with an authentic command-line interface.
+
+## 🌟 Live Demo
+
+**🔗 [https://cpu-scheduling-algorithm-ten.vercel.app/](https://cpu-scheduling-algorithm-ten.vercel.app/)**
+
+Experience all 5 scheduling algorithms with real-time calculations and interactive terminal UI.
 
 ## ✨ Features
 
@@ -73,13 +84,46 @@ vercel
 - Tailwind CSS
 - Custom Terminal UI Component
 
+## 📊 Performance
+
+- ⚡ **Lightning Fast:** < 1s initial load time
+- 📱 **Fully Responsive:** Works on all devices
+- 🎨 **Clean UI:** Professional terminal interface
+- ♿ **Accessible:** Keyboard-friendly navigation
+- 🔒 **Secure:** Client-side processing, no data sent to servers
+
+## 🔗 Links
+
+- 🌐 **Live Demo:** [https://cpu-scheduling-algorithm-ten.vercel.app/](https://cpu-scheduling-algorithm-ten.vercel.app/)
+- 💻 **C++ Version:** [CPU Scheduling Algorithm](https://github.com/bisal2003/CPU_scheduling_Algorithm)
+- 📝 **Documentation:** [Deployment Guide](./DEPLOYMENT.md)
+
 ## 👨‍💻 Author
 
-**Bisal**  
-🎓 National Institute of Technology, Silchar  
-🔗 [GitHub](https://github.com/bisal2003/CPU_scheduling_Algorithm)
+**Bisal Prasad**  
+🎓 **National Institute of Technology, Silchar**  
+📧 [bisalprasad2003@gmail.com](mailto:bisalprasad2003@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/bisal-prasad)  
+🔗 [GitHub](https://github.com/bisal2003)
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to:
+- 🐛 Report bugs
+- 💡 Suggest new features
+- 🔧 Submit pull requests
+
+## 📄 License
+
+MIT License - feel free to use this project for learning and development.
 
 ---
 
-**⭐ If you like this project, give it a star!**
+<div align="center">
+
+**⭐ If you find this project helpful, please give it a star!**
+
+[Live Demo](https://cpu-scheduling-algorithm-ten.vercel.app/) • [Report Bug](https://github.com/bisal2003/cpu-scheduler-web/issues) • [Request Feature](https://github.com/bisal2003/cpu-scheduler-web/issues)
+
+</div>
 

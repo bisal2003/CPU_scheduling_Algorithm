@@ -1,7 +1,19 @@
 # CPU Scheduling Algorithms Simulator
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://cpu-scheduling-algorithm-ten.vercel.app/)
+[![C++](https://img.shields.io/badge/C++-11-blue?style=for-the-badge&logo=c%2B%2B)](https://isocpp.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+> 🌐 **[Try the Web Version Live!](https://cpu-scheduling-algorithm-ten.vercel.app/)** - Interactive browser-based simulator
+
 ## 📋 Project Overview
-A comprehensive C++ implementation of operating system CPU scheduling algorithms with interactive process simulation and performance analysis. This project demonstrates deep understanding of OS concepts, process management, and algorithm optimization through practical implementation of 7 distinct scheduling strategies.
+A comprehensive implementation of operating system CPU scheduling algorithms available in both **C++** (command-line) and **Web** (browser-based) versions. This project demonstrates deep understanding of OS concepts, process management, and algorithm optimization through practical implementation of 7 distinct scheduling strategies.
+
+### 🚀 Two Versions Available:
+
+1. **C++ CLI Version** - Original command-line implementation with 7 algorithms
+2. **Web Version** - Modern Next.js app with interactive terminal UI ([Live Demo](https://cpu-scheduling-algorithm-ten.vercel.app/))
 
 ## 🎯 Key Features
 - **7 Production-Grade Scheduling Algorithms:**
@@ -184,12 +196,35 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📄 License
 This project is available for educational and non-commercial use.
 
+## 🌐 Live Web Version
+
+**🔗 [https://cpu-scheduling-algorithm-ten.vercel.app/](https://cpu-scheduling-algorithm-ten.vercel.app/)**
+
+Experience the scheduling algorithms in your browser with an interactive terminal interface!
+
+**Features:**
+- ✨ No installation required
+- 🖥️ Professional terminal UI
+- ⚡ Real-time calculations
+- 📱 Works on any device
+- 🎨 Clean, modern design
+
 ## 👨‍💻 Author
-**Bisal**  
+
+**Bisal Prasad**  
 🎓 **National Institute of Technology, Silchar**  
-📧 Contact: [bisalprasad2003@gmail.com]  
-💼 LinkedIn: [linkedin.com/bisal-prasad]  
-🔗 GitHub: [github.com/bisal2003]
+📧 **Email:** [bisalprasad2003@gmail.com](mailto:bisalprasad2003@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/bisal-prasad](https://linkedin.com/in/bisal-prasad)  
+🔗 **GitHub:** [github.com/bisal2003](https://github.com/bisal2003)  
+🌐 **Live Demo:** [cpu-scheduling-algorithm-ten.vercel.app](https://cpu-scheduling-algorithm-ten.vercel.app/)
+
+## 🤝 Connect With Me
+
+Feel free to reach out for:
+- 💡 Project collaboration
+- 🐛 Bug reports or suggestions
+- 📚 Academic discussions on OS algorithms
+- 💼 Professional opportunities
 
 ---
 
@@ -198,4 +233,14 @@ This project is available for educational and non-commercial use.
 - Modern Operating Systems by Andrew S. Tanenbaum
 - CPU Scheduling in Linux Kernel Documentation
 
+---
+
+<div align="center">
+
 **⭐ If you find this project helpful, please consider giving it a star!**
+
+### 🚀 [Try Live Demo](https://cpu-scheduling-algorithm-ten.vercel.app/) | 📖 [Documentation](./README.md) | 🐛 [Report Issues](https://github.com/bisal2003/CPU_scheduling_Algorithm/issues)
+
+Made with ❤️ by [Bisal Prasad](https://github.com/bisal2003) | NIT Silchar
+
+</div>
